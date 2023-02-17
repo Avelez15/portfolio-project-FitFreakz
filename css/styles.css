@@ -10,5 +10,13 @@ h1{
 .jumbotron{
     margin:0;
     padding: 30px;
-    background-image: linear-gradient(to top, #B82E1F,#000000)
+    background-image: linear-gradient(to top, #B82E1F,#000000,white);
+}
+
+#fitFreakNavbar{
+    background: solid;
+    font-size:20px;
+}
+#hireATrainerButton{
+position:relative; left:600px;
 }
