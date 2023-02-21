@@ -7,6 +7,10 @@ h1{
     font-style: italic;
 }
 
+h2, h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .jumbotron{
     margin:0;
     padding: 30px;
@@ -30,4 +34,9 @@ h1{
     padding: 50px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
+}
+
+.site-footer{
+    background-image: linear-gradient(to bottom, #B82E1F,#000000,white) ;
+    padding: 20px 0;
 }
